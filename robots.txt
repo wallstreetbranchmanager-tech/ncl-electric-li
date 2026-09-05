@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://ncl-electric-li.vercel.app/sitemap.xml
